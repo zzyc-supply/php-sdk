@@ -1,0 +1,24 @@
+{
+  "name": "Zzyc-supply/php-sdk",
+  "description": "Zzyc supply API SDK for PHP",
+  "type": "library",
+  "keywords": ["supply", "Zzyc", "sdk"],
+  "require": {
+    "php": ">=7.0"
+  },
+  "homepage": "http://www.xzwl1688.com/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "lihuidao",
+      "email": "1069945237@qq.com",
+      "homepage": "http://www.xzwl1688.com/"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "Zzyc\\Api\\": "src/Zzyc/Api"
+    }
+  }
+}
