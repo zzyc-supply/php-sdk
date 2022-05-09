@@ -1,12 +1,12 @@
 
-## Zzyc-supply-php-sdk
+## zzyc-supply-php-sdk
 
-Zzyc-supply-php-sdk是中泽云仓官方SDK的Composer封装，支持php项目的中台API对接。
+zzyc-supply-php-sdk是中泽云仓官方SDK的Composer封装，支持php项目的中台API对接。
 ## 安装
 
 * 通过composer，这是推荐的方式，可以使用composer.json 声明依赖，或者运行下面的命令。
 ```bash
-$ composer require Zzyc-supply/php-sdk
+$ composer require zzyc-supply/php-sdk
 ```
 * 直接下载安装，SDK 没有依赖其他第三方库，但需要参照 composer的autoloader，增加一个自己的autoloader程序。
 

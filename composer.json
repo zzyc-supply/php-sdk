@@ -1,8 +1,8 @@
 {
-  "name": "Zzyc-supply/php-sdk",
+  "name": "zzyc-supply/php-sdk",
   "description": "Zzyc supply API SDK for PHP",
   "type": "library",
-  "keywords": ["supply", "Zzyc", "sdk"],
+  "keywords": ["supply", "zzyc", "sdk"],
   "require": {
     "php": ">=7.0"
   },
@@ -10,7 +10,7 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "lihuidao",
+      "name": "zzyc",
       "email": "1069945237@qq.com",
       "homepage": "http://www.xzwl1688.com/"
     }
